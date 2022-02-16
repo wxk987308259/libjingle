@@ -1,0 +1,20 @@
+
+This has been moved to https://github.com/cisco/libsrtp
+
+-------------------------------------------------------------------
+
+Secure RTP (SRTP) Reference Implementation
+David A. McGrew
+Cisco Systems, Inc.
+mcgrew@cisco.com
+
+
+This package provides an implementation of the Secure Real-time
+Transport Protocol (SRTP), the Universal Security Transform (UST), and
+a supporting cryptographic kernel.  These mechanisms are documented in
+the Internet Drafts in the doc/ subdirectory.  The SRTP API is
+documented in include/srtp.h, and the library is in libsrtp.a (after
+compilation).  An overview and reference manual is available in
+doc/libsrtp.pdf.  The PDF documentation is more up to date than this
+file.
+
